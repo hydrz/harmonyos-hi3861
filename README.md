@@ -4,13 +4,24 @@
 
 ## 前提条件
 
-1. 请先安装Python 3.7.4及以上版本
+1. 安装Node.js 12.0.0及以上版本
+
+```
+node -v
+```
+
+2. 执行如下命令安装最新版本hpm
+```
+npm install -g @ohos/hpm-cli
+```
+
+3. 请先安装Python 3.7.4及以上版本
 
 ```
 python3 --version
 ```
 
-2. 安装hb
+4. 安装hb
 
 运行如下命令安装hb
 
