@@ -1,6 +1,6 @@
-# Dist
+# Hi3861
 
-Dist is a basic distribution template. It shows the basic settings that one distribution needs.
+[`HarmonyOS`](https://gitee.com/openharmony) 开发板 [`Hi3861`](https://device.harmonyos.com/cn/docs/start/introduce/oem_minitinier_des_3861-0000001105041324) 初始化模板
 
 ## 前提条件
 
